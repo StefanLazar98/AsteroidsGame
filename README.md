@@ -1,1 +1,3 @@
-# AsteroidsGame
+Controls: x - shoot rockets, c - rotate to the right, z - rotate to the left, arrows - thrust left/right/up/down
+
+Objective of the game: Destroy all the asteroids. Each asteroids has a certain size and color. On each asteroid you will see how many rockets you need to hit in order for it to be destroyed. Each time you hit one, it's size will shrink and it will change color and you will earn points. You have 3 lifes and each time you collide with an asteroid you lose one life. You can earn more lives after reaching a certain number of points. The game will end after you either remain out of lives or you destroy all the asteroids. The best score will be saved and it will persist even after you close the game.
